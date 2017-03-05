@@ -1,2 +1,2 @@
 # coursera-jh-test
-Coursera John Hopkins repository
+Coursera John Hopkins test repository
